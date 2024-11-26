@@ -13,7 +13,7 @@ A extração dos dados precisa ser realizada de forma que seja possivel retirar 
 - Descrição da vaga.
 
   
-## 2 Etapa: Tratamento dos dados extraídos: 
+## 2 Etapa: Tratamento dos dados extraídos e EDA: 
 Após extraído os dados é necessário trata-los para que seja possivel fazer análises relevantes com as informações encontradas por meio de padrões mais comuns nos dados. No tratamento foram retirados vagas com o campo "Titulo" em branco. 
 
 ## 3 Etapa: Clusterização dos dados: 
